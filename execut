@@ -1,0 +1,39 @@
+-rw-rw-r--  1 ec2-user ec2-user     0 Sep  5 20:27 file{3...5}.txt
+-rwxrw-r--  1 ec2-user ec2-user   475 Sep 18 18:03 fullscript.sh
+-rw-rw-r--  1 ec2-user ec2-user 25739 Sep 18 18:08 history.txt
+-rwxrw-r--  1 ec2-user ec2-user   281 Sep 15 11:25 Homework15.sh
+-rw-rw-r--  1 ec2-user ec2-user  9012 Sep 15 11:25 Homework15.txt
+-rwxrw-r--  1 ec2-user ec2-user    70 Sep  6 12:03 Lessom15.sh
+-rw-rw-r--  1 ec2-user ec2-user    40 Sep  5 18:19 <Lesson14.sh>
+-rwxrw-r--  1 ec2-user ec2-user   142 Sep  6 11:21 Lesson14.sh
+-rw-rw-r--  1 ec2-user ec2-user     0 Sep  5 19:43 Lesson14.txt
+-rwxrw-r--  1 ec2-user ec2-user   313 Sep 13 13:24 Lesson17.sh
+-rwxrw-r--  1 ec2-user ec2-user   161 Aug 29 20:29 myfirstbashscript.sh
+-rw-rw-r--  1 ec2-user ec2-user  1640 Sep 13 13:28 output.txt
+-rw-rw-r--  1 ec2-user ec2-user 22204 Sep  5 11:53 processes.txt
+drwxrwxr-x  2 ec2-user ec2-user   114 Sep  6 11:21 test_dir
+[ec2-user@ip-172-31-33-20 DeyanSpasov]$ ./fullscript.sh
+Hello Student!
+Enter your name: Deyan
+Welcome to terminal Deyan
+mkdir: cannot create directory ‘/tmp/testDeyan/’: File exists
+Saving Data
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Date saved and I continue work!
+mkdir: cannot create directory ‘/opt/mydateDeyan’: File exists
+1
+2
+3
+4
+5
+Perfect done Chef!
+[ec2-user@ip-172-31-33-20 DeyanSpasov]$
