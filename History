@@ -1,0 +1,22 @@
+ 998  cd /opt/09072024_morning/
+  999  ls -la
+ 1000  cd DeyanSpasov
+ 1001  ls -la
+ 1002  touch fullscript.sh
+ 1003  ls -la
+ 1004  vim fullscript.sh
+ 1005  cat fullscript.sh
+ 1006  ls -la
+ 1007  chmod u+x fullscript.sh
+ 1008  ls -la
+ 1009  ./fullscript.sh
+ 1010  vim fullscript.sh
+ 1011  ls -la
+ 1012  cat fullscript.sh
+ 1013  ./fullscript.sh
+ 1014  vim fullscript.sh
+ 1015  ls -la
+ 1016  cat fullscript.sh
+ 1017  ./fullscript.sh
+ 1018  history > history.txt
+[ec2-user@ip-172-31-33-20 DeyanSpasov]$
